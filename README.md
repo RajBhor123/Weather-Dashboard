@@ -44,7 +44,12 @@ Follow these steps to run the Weather Dashboard locally:
 
 ## 📺 Screenshots
 ### Home Page:
-![Weather Dashboard](https://via.placeholder.com/800x400?text=Weather+Dashboard+Screenshot)
+![Weather Dashboard](public/WeatherDashboard.png)
+
+## 📺 Preview & Screenshots
+
+## Live Preview: Weather Dashboard
+
 
 ## ✨ Future Enhancements
 - Add **5-day weather forecast**.
