@@ -42,13 +42,13 @@ Follow these steps to run the Weather Dashboard locally:
    ```
    The app will open at `http://localhost:3000/`
 
+## 📺 Preview & Screenshots
+
+  Live Preview: [Weather Dashboard](https://rajbhor123.github.io/Weather-Dashboard/)
+
 ## 📺 Screenshots
 ### Home Page:
 ![Weather Dashboard](public/WeatherDashboard.png)
-
-## 📺 Preview & Screenshots
-
-## Live Preview: Weather Dashboard
 
 
 ## ✨ Future Enhancements
