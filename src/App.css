@@ -1,0 +1,99 @@
+/* General styling for the weather container */
+.weather-container {
+  font-family: 'Arial', sans-serif;
+  background: #f0f4f8;
+  color: #333;
+  max-width: 600px;
+  margin: 50px auto;
+  padding: 20px;
+  border-radius: 8px;
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+  text-align: center;
+}
+
+h1 {
+  color: #3a8d99;
+  font-size: 32px;
+  margin-bottom: 20px;
+}
+
+/* Styling for the city input section */
+.city-input {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 10px;
+  margin-bottom: 20px;
+}
+
+input {
+  padding: 10px;
+  font-size: 16px;
+  border: 1px solid #ddd;
+  border-radius: 4px;
+  width: 200px;
+  max-width: 80%;
+  outline: none;
+  transition: border-color 0.3s;
+}
+
+input:focus {
+  border-color: #3a8d99;
+}
+
+button {
+  padding: 10px 20px;
+  font-size: 16px;
+  background-color: #3a8d99;
+  color: white;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+  transition: background-color 0.3s;
+}
+
+button:hover {
+  background-color: #2e6b77;
+}
+
+/* Styling for loading, error, and weather details */
+p {
+  margin: 10px 0;
+}
+
+.weather-details {
+  background: #ffffff;
+  padding: 20px;
+  border-radius: 8px;
+  box-shadow: 0 2px 6px rgba(0, 0, 0, 0.1);
+  transition: transform 0.3s;
+}
+
+.weather-details h2 {
+  color: #3a8d99;
+  font-size: 24px;
+  margin-bottom: 15px;
+}
+
+.weather-details p {
+  font-size: 18px;
+  color: #555;
+}
+
+.weather-details p:first-child {
+  font-size: 24px;
+  font-weight: bold;
+}
+
+/* Error message styling */
+.error {
+  color: red;
+  font-size: 18px;
+}
+
+/* Loading spinner style */
+.loading {
+  font-size: 18px;
+  font-weight: bold;
+  color: #f0a500;
+}
