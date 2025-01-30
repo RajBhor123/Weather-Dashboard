@@ -56,12 +56,6 @@ Follow these steps to run the Weather Dashboard locally:
 - Implement **geolocation-based weather**.
 - Include **dark mode** for better UX.
 
-## ✅ Contributing
-Contributions are welcome! Feel free to fork the repository and submit a pull request.
-
-## 📢 License
-This project is open-source and available under the [MIT License](LICENSE).
-
 ---
 Developed with ❤ by [Raj Bhor](https://github.com/RajBhor123)
 
